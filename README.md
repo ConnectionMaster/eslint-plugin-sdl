@@ -1,5 +1,8 @@
 # eslint-plugin-sdl
 
+> [!WARNING]
+> This project is no longer actively maintained.
+
 [![Node.js integration](https://github.com/microsoft/eslint-plugin-sdl/actions/workflows/node-version-integration.yml/badge.svg)](https://github.com/microsoft/eslint-plugin-sdl/actions/workflows/node-version-integration.yml)
 [![E2E integration](https://github.com/microsoft/eslint-plugin-sdl/actions/workflows/e2e-integration.yml/badge.svg)](https://github.com/microsoft/eslint-plugin-sdl/actions/workflows/e2e-integration.yml)
 
